@@ -1,0 +1,32 @@
+_repo: Tormento_31465
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pérez Galdós, Benito
+    aliases:
+    - Perez Galdos, Benito
+    - Galdós, Benito Pérez
+    birthdate: 1843
+    deathdate: 1920
+    gutenberg_agent_id: '3821'
+    url: http://www.gutenberg.org/2009/agents/3821
+    wikipedia: http://en.wikipedia.org/wiki/Benito_Pérez_Galdós
+description: ''
+gutenberg_issued: '2010-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31465'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Orphans -- Fiction'
+- !lcsh 'Spain -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'Madrid (Spain) -- Fiction'
+- !lcc 'PQ'
+title: Tormento
+url: http://www.gutenberg.org/ebooks/31465
